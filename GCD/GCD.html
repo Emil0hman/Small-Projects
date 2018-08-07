@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <script>
+    var n1 = 2199620718, n2 = 10000000000000000000000000000;
+    var biggest = 10000000000;
+
+   /* if (n1 > n2) {
+        biggest = n1;
+    }
+    else if (n2 > n1) {
+        biggest = n2;
+    }*/
+
+    for(var i = 1; i < biggest; i++) {
+        if (n1 % i == 0 && n2 % i == 0) {
+            console.log(i);
+        }
+    }
+
+    console.log("Done");
+</script>
+</body>
+</html>
+
+
+
+
