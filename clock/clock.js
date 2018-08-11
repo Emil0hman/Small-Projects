@@ -16,7 +16,6 @@ for (var i = 0; i < 360; i++) {
         Hpos.push(i);
     }
 }
-alert(pos.length + " " + Hpos.length);
 
 function secUpdate() {
     var d = new Date();
