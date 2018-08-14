@@ -1,3 +1,7 @@
+// Property of Emil Öhman
+// emilohman.nu
+// mail@emilohman.nu
+
 var pos = [];
 var Hpos = [];
 
