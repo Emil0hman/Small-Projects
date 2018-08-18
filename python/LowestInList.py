@@ -3,4 +3,4 @@ def smallestlist(list):
     for x in list:
         if x > biggest:
             biggest = x
-    print(biggest)
+    return biggest
