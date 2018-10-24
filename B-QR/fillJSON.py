@@ -2,8 +2,8 @@
 # Forbidden to publish or use in a comercial use
 
 fileCont = open('toBinNum.js', 'a')
-first = '0,1,2,3,4,5,6,7,8,9'.split(',')
-second = range(48, 58)
+first = """STRING""".split(',')
+second = range("""RANGE""")
 
 c = 0
 
