@@ -9,7 +9,7 @@ let squareNum = 0;
 
 function setup() {
     // Inputbox
-    inp = createInput("Text");
+    inp = createInput().attribute('placeholder', 'Text');
     btnCreate = createButton("Generate");
     btnCreate.mousePressed(generate);
     // Button 'Save Code'
