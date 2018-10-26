@@ -23,7 +23,7 @@ function setup() {
 function toBinary(letter) {
     // Convert DEC to BIN
     bin = parseInt(data[letter], 10).toString(2)
-    if (bin.length < 8) {bin = "0" + bin;}
+    while (bin.length < 8) {bin = "0" + bin;}
     return bin;
 }
 
