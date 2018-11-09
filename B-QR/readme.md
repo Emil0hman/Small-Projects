@@ -8,7 +8,7 @@ It is very simple to use, just type your query in the box 'Text'. Then click on 
 
 ## Built width
 
-* HTML - Small DOM Elements
+* HTML - Small Visual Elements
 * CSS - Style
 * JavaScript - For the calculations
 * [p5.js](http://p5js.org) - Rendering
