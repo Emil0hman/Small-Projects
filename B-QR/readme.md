@@ -1,6 +1,7 @@
 # B-QR
 
 B-QR is a tool which can create QR code using binary.
+[dev.emilohman.nu/projects/b-qr](http://dev.emilohman.nu/projects/b-qr)
 
 ## How to use
 
