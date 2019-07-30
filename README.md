@@ -1,3 +1,5 @@
+# **_ARCHIVED PROJECT_**: This project is no longer maintained
+
 # projects
 
 All of the files are elements of Emil Öhman.
